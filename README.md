@@ -22,3 +22,10 @@ Play with a friend, roll the dice, and race to reach 100 before your opponent �
 - *CSS* – Board styling and player design  
 - *JavaScript* – Game logic and dice roll handling
 
+##  Developer
+*Venkata Srinivas Vankayala* 
+-  B.Tech in Artificial Intelligence & Data Science  
+-  Passionate about web development and game design  
+
+##  If you like this project
+Give it a star on GitHub!  
